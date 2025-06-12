@@ -48,5 +48,5 @@ If you're using the I2S DAC interface linked above, **you may need to solder the
 
 ## 🎹 Learn How Synthesizers Work
 
-- [YouTube – Synth Basics Part 1](https://www.youtube.com/watch?v=vvBl3YUBUyY)  
-- [YouTube – Synth Basics Part 2](https://www.youtube.com/watch?v=JfJ9Dbjz6cs)
+- [FM SYNTHS in under 4 minutes](https://www.youtube.com/watch?v=vvBl3YUBUyY)  
+- [How to learn any synthesizer](https://www.youtube.com/watch?v=JfJ9Dbjz6cs)
