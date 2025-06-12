@@ -33,6 +33,12 @@ https://github.com/user-attachments/assets/1837dc73-f9c6-4a2d-afaf-8ea2c64a5b65
 
 ---
 
+## 💻 Source Code
+
+- [synth-base.cpp](https://github.com/wprudencio/esp32-synth/blob/main/synth-base.cpp)
+
+---
+
 ## 🛠️ Troubleshooting
 
 If you're using the I2S DAC interface linked above, **you may need to solder the bridges** shown below:
