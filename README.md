@@ -44,7 +44,7 @@ https://github.com/user-attachments/assets/1837dc73-f9c6-4a2d-afaf-8ea2c64a5b65
 If you're using the I2S DAC interface linked above, **you may need to solder the bridges** shown below:
 
 <p align="center">
-  <img width="700" alt="DAC Soldering Instructions" src="https://github.com/user-attachments/assets/396e993a-9079-4a50-9718-5f5c59dd2507" />
+  <img width="1360" alt="DAC Soldering Instructions" src="https://github.com/user-attachments/assets/a8513952-70d2-4831-b567-fbacfc36fee3" />
 </p>
 
 - Official guide: [Audio Tools Wiki – External DAC](https://github.com/pschatzmann/arduino-audio-tools/wiki/External-DAC#hiletgo-pcm5102-i2s-iis-lossless-digital-audio-dac-decoder)  
