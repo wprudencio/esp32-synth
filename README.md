@@ -5,7 +5,7 @@ https://github.com/user-attachments/assets/1837dc73-f9c6-4a2d-afaf-8ea2c64a5b65
 
 ## 🧰 Hardware Used
 
-### 🔌 Main Board
+### 🔌 Interface I2S PCM5102A DAC Decoder GY-PCM5102
 
 <p align="center">
   <img width="600" alt="Main Board" src="https://github.com/user-attachments/assets/46574a20-2fd0-4157-84c9-6804b67c569a" />
@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/1837dc73-f9c6-4a2d-afaf-8ea2c64a5b65
 
 ---
 
-### 🎮 Additional Accessory
+### 🎮 Basic Starter Kit for ESP32 ESP-32S 
 
 <p align="center">
   <img width="700" alt="Additional Accessory" src="https://github.com/user-attachments/assets/5f6c12e1-a11c-4320-ad2e-45d3f28f87c3" />
