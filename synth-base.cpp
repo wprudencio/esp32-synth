@@ -26,7 +26,7 @@ maxiFilter filter;
 
 // Oscillators
 maxiOsc osc[4];
-maxiOsc oscC, oscE, oscG, oscB;
+maxiOsc oscOne, oscTwo, oscThree, oscFour;
 
 // Frequencies for Fmaj7 chord: F - A - C - E
 double freqs_fmaj7[4] = { 174.61, 220.00, 261.63, 329.63 };
@@ -87,10 +87,10 @@ void play(float *output) {
   if (buttonState3 == LOW) {
     // Play full Amaj7 chord using individual oscillators
     double chord = (
-      oscC.sawn(220.00) +     // A
-      oscE.sawn(277.18) +     // C#
-      oscG.sawn(329.63) +     // E
-      oscB.sawn(415.30)       // G#
+      oscOne.sawn(220.00) +     // A
+      oscTwo.sawn(277.18) +     // C#
+      oscThree.sawn(329.63) +     // E
+      oscFour.sawn(415.30)       // G#
     ) / 4.0;
 
     double filtered = filter.lores(chord, 1000, 0.8);
